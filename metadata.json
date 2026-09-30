@@ -1,6 +1,7 @@
 {
-  "name": "Flappy Bird Classic",
-  "description": "A classic Flappy Bird arcade game built with HTML5 Canvas, responsive controls, procedural audio, and smooth physics.",
+  "name": "Neon Galaxian Invaders",
+  "description": "A high-performance retro-modern neon Space Invaders and Galaxian arcade game built with HTML5 Canvas, featuring Galaxian diving attacks, destructible bunkers, and particle explosions.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
+
